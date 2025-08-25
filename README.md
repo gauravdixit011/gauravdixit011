@@ -3,6 +3,10 @@
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&pause=1000&color=26FF67&width=550&height=75&lines=Hi%2C+I'm+Gaurav+Dixit" alt="Typing SVG" /></a>
 </p>
 <p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Gaurav%20⚡%20Builds%20Code%20Like%20Poetry&width=800&height=120" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 <h3 align="center">A Passionate Software Engineer | Full-Stack Developer</h3>
