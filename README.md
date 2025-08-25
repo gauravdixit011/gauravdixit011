@@ -1,5 +1,8 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 <h3 align="center">A Passionate Software Engineer | Full-Stack Developer</h3>
 
 <!-- Typing Animation -->
