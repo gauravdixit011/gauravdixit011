@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00CFFD&center=true&vCenter=true&width=600&lines=Crafting+code+that+works+like+poetry.;Building+scalable+and+reliable+systems.;Lifelong+learner+and+tech+enthusiast.">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ### 🚀 **About Me**
 - 🔭 I’m currently working on **Full-Stack Web & Mobile Apps**
