@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&pause=1000&color=26FF67&width=550&height=75&lines=Hi%2C+I'm+Gaurav+Dixit" alt="Typing SVG" /></a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=900&size=50&pause=1000&color=26FF67&width=550&height=75&lines=Hi%2C+I'm+Gaurav+Dixit" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
