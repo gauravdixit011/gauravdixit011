@@ -46,7 +46,7 @@
 ### 🌟 **Featured Projects**
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📖 Classic Chess Game](https://dgaurav300.github.io/Classic-Chess-Game/) | HTML + CSS + JS  |
+| [📖 Classic Chess Game](https://dgaurav300.github.io/Classic-Chess-Game/) | Two Player Chess Game  | HTML + CSS + JS |
 | [⚙️ Spare Part Sales + MLM App](https://github.com/dgaurav300/spare-part-app) | MLM-enabled spare part sales with feedback & support | Kotlin, Firebase, REST API |
 | [📊 Stock Analyzer](https://github.com/YOUR_GITHUB_USERNAME/stock-analyzer) | Predict stock trends using ML & Python | Python, Pandas, Matplotlib |
 
