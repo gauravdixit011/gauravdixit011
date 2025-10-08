@@ -33,11 +33,11 @@
 ### 📊 **GitHub Stats**
 <div align="center">
   
-  ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgaurav300&show_icons=true&theme=radical&hide_border=true)
+  ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdixit011&show_icons=true&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgaurav300&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdixit011&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=dgaurav300&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=gauravdixit011&theme=radical&hide_border=true)
 
 </div>
 
@@ -46,10 +46,7 @@
 ### 🌟 **Featured Projects**
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📖 Classic Chess Game](https://dgaurav300.github.io/Classic-Chess-Game/) | Two Player Chess Game  | HTML + CSS + JS |
-| [⚙️ Spare Part Sales + MLM App](https://github.com/dgaurav300/spare-part-app) | MLM-enabled spare part sales with feedback & support | Kotlin, Firebase, REST API |
-| [📊 Stock Analyzer](https://github.com/YOUR_GITHUB_USERNAME/stock-analyzer) | Predict stock trends using ML & Python | Python, Pandas, Matplotlib |
-
+| [📖 Classic Chess Game](https://gauravdixit011.github.io/Classic-Chess-Game/) | Two Player Chess Game  | HTML + CSS + JS |
 ---
 
 ### 📫 **Connect With Me**
